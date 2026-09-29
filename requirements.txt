@@ -1,0 +1,6 @@
+fonttools[woff]==4.63.0
+skia-pathops>=0.8
+uharfbuzz>=0.39
+brotli>=1.1
+fastapi>=0.110
+uvicorn>=0.29
